@@ -1,0 +1,26 @@
+Question,OptionA,OptionB,OptionC,Correct,Category
+Which animal says Moo?,Dog,Cow,Cat,Cow,Animals
+Which animal says Bark?,Dog,Horse,Duck,Dog,Animals
+Which animal says Meow?,Cow,Cat,Pig,Cat,Animals
+Which animal has a long trunk?,Lion,Elephant,Dog,Elephant,Animals
+Which animal hops?,Rabbit,Cow,Horse,Rabbit,Animals
+Which animal gives us milk?,Cow,Lion,Monkey,Cow,Animals
+Which animal lives in the ocean?,Fish,Cat,Horse,Fish,Animals
+Which animal has stripes?,Zebra,Dog,Cow,Zebra,Animals
+Which animal roars?,Lion,Duck,Rabbit,Lion,Animals
+Which animal is known as man's best friend?,Dog,Cat,Fish,Dog,Animals
+What colour is a banana?,Yellow,Blue,Purple,Yellow,Colours
+What colour is grass?,Red,Green,Orange,Green,Colours
+What colour is the sky on a clear day?,Blue,Pink,Brown,Blue,Colours
+What colour is a tomato?,Red,Black,White,Red,Colours
+What colour is a lemon?,Yellow,Blue,Grey,Yellow,Colours
+Which shape is round?,Circle,Square,Rectangle,Circle,Shapes
+Which shape has 3 sides?,Triangle,Circle,Oval,Triangle,Shapes
+Which shape has 4 equal sides?,Square,Circle,Heart,Square,Shapes
+Which shape looks like an egg?,Oval,Square,Triangle,Oval,Shapes
+Which shape has no corners?,Circle,Square,Rectangle,Circle,Shapes
+What number comes after 1?,2,4,5,2,Numbers
+What number comes after 5?,6,7,8,6,Numbers
+How many fingers on one hand?,5,3,7,5,Numbers
+Which number is bigger?,9,2,1,9,Numbers
+What number comes before 10?,9,5,6,9,Numbers
